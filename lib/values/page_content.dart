@@ -2,7 +2,7 @@ import '../models/page_view_model.dart';
 
 List<PageContent> pageContentList = [
   PageContent(
-    pageHeading: "4 Symtomps of\nCovid-19",
+    pageHeading: "4 Symptoms of\nCovid-19",
     heading1: 'Covid-19',
     heading2: 'Symptoms',
     heading3: 'These symptoms may appear 2-14 days after exposure.',
