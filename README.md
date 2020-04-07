@@ -23,6 +23,6 @@
   <img src="readme/search.png" width="250" /> 
 </p>
 <p align='center'>
-  <img src="readme/prevnention.png" width="250" />
+  <img src="readme/prevention.png" width="250" />
   <img src="readme/credit.png" width="250" />
 </p>
