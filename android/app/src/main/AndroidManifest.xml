@@ -10,8 +10,8 @@
     <application
         android:name="io.flutter.app.FlutterApplication"
         android:label="COVID-19"
-        android:icon="@mipmap/ic_launcher">
-        android:usesCleartextTraffic="true"
+        android:icon="@mipmap/ic_launcher"
+        android:usesCleartextTraffic="true">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
